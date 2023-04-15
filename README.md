@@ -7,4 +7,3 @@ This is a 2D toy gravity simulation written in C++. It allows you to play and ex
 The program is written in C++ using the Qt graphics library.<br />
 I did this project in order to deepen my knowledge of C++ and algorithms.
 
-## How to run
